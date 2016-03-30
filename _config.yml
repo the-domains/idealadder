@@ -1,0 +1,28 @@
+name: idealadder
+favicon: null
+layout_spectrum: 0.9058276969008148
+typography_spectrum: 0.20615055947564542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0659308189060539
+  lightness: 0.5577014570590109
+  saturation: 0.23161003086715937
+  rhythmicContrast: 0.8635714424308389
+purpose: []
